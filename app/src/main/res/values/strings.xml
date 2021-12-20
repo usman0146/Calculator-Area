@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="area_calculator">Area Calculator</string>
+    <string name="sqaure">Square</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="tringle">Tringle</string>
+    <string name="circle">Circle</string>
+    <string name="please_chose_for_area_find">Please Chose For Area Find</string>
+    <string name="area_calculate_of_sqaure">Area Calculate of Square</string>
+    <string name="enter_lenght">Enter Length</string>
+    <string name="area">Area</string>
+    <string name="clear">Clear</string>
+    <string name="answer">Answer</string>
+    <string name="enter_width">Enter Width</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="area_calculate_of_rectangle">Area Calculate of Rectangle</string>
+    <string name="area_calculate_of_triangle">Area Calculate of Triangle</string>
+    <string name="enter_base">Enter Base</string>
+    <string name="enter_raduis">Enter Raduis</string>
+    <string name="area_calculate_of_circle">Area Calculate of Circle</string>
+    <string name="textview">Welcome To</string>
+    <string name="App">App</string>
+    <string name="Shawaz">By M. Usman-0146</string>
+</resources>
